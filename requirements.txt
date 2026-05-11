@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+motor==3.7.1
+pymongo==4.13.0
+discord.py==2.5.2
+cryptography==44.0.3
+python-multipart==0.0.20
+python-dotenv==1.1.0
